@@ -33,8 +33,8 @@
       "total_sent": 52
     },
     "6217985036": {
-      "credits": 172,
-      "total_sent": 28,
+      "credits": 171,
+      "total_sent": 29,
       "transactions": [
         {
           "type": "crypto_purchase",
@@ -56,5 +56,5 @@
     5596766149,
     5136158321
   ],
-  "last_updated": "2025-10-30T13:07:07.239487"
+  "last_updated": "2025-10-30T13:10:03.060734"
 }
