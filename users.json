@@ -14,8 +14,8 @@
   ],
   "users": {
     "8093828531": {
-      "credits": 134,
-      "total_sent": 224,
+      "credits": 133,
+      "total_sent": 225,
       "transactions": [
         {
           "type": "crypto_purchase",
@@ -85,5 +85,5 @@
     5596766149,
     5136158321
   ],
-  "last_updated": "2025-11-28T13:57:20.005858"
+  "last_updated": "2025-11-28T13:59:34.919851"
 }
