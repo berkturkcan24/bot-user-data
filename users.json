@@ -35,17 +35,6 @@
       "credits": 187,
       "total_sent": 83
     },
-    "6217985036": {
-      "credits": 168,
-      "total_sent": 32,
-      "transactions": [
-        {
-          "type": "crypto_purchase",
-          "credits": 100,
-          "timestamp": "2025-10-24 20:19:08"
-        }
-      ]
-    },
     "8116437539": {
       "credits": 29,
       "total_sent": 171
