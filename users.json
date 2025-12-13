@@ -48,8 +48,8 @@
       "total_sent": 99
     },
     "6623990614": {
-      "credits": 34,
-      "total_sent": 16
+      "credits": 33,
+      "total_sent": 17
     }
   },
   "processed_payments": [
@@ -64,5 +64,5 @@
     5596766149,
     5136158321
   ],
-  "last_updated": "2025-12-13T12:25:50.818336"
+  "last_updated": "2025-12-13T12:33:23.261199"
 }
