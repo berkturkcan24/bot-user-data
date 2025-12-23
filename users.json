@@ -2,67 +2,14 @@
   "admins": [
     8093828531
   ],
-  "whitelist": [
-    7599001779,
-    5174539966,
-    8116437539,
-    8214549626,
-    8590824511,
-    6623990614
-  ],
+  "whitelist": [],
   "users": {
     "8093828531": {
-      "credits": 101,
-      "total_sent": 257,
-      "transactions": [
-        {
-          "type": "crypto_purchase",
-          "credits": 100,
-          "timestamp": "2025-10-24 19:54:44"
-        },
-        {
-          "type": "crypto_purchase",
-          "credits": 100,
-          "timestamp": "2025-10-24 23:06:13"
-        }
-      ]
-    },
-    "7599001779": {
-      "credits": 90,
-      "total_sent": 45
-    },
-    "5174539966": {
-      "credits": 101,
-      "total_sent": 169
-    },
-    "8116437539": {
-      "credits": 42,
-      "total_sent": 258
-    },
-    "8214549626": {
-      "credits": 99,
-      "total_sent": 1
-    },
-    "8590824511": {
-      "credits": 90,
-      "total_sent": 110
-    },
-    "6623990614": {
-      "credits": 23,
-      "total_sent": 27
+      "credits": 0,
+      "total_sent": 0,
+      "transactions": []
     }
   },
-  "processed_payments": [
-    "4553401019",
-    "6405499325",
-    "4972826570",
-    "4627711220",
-    "4452935526",
-    "4827191792",
-    "6190281980",
-    5629621106,
-    5596766149,
-    5136158321
-  ],
-  "last_updated": "2025-12-23T13:56:35.234324"
+  "processed_payments": [],
+  "last_updated": "2025-12-23T14:47:30.000000"
 }
