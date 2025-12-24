@@ -2,7 +2,9 @@
   "admins": [
     8093828531
   ],
-  "whitelist": [],
+  "whitelist": [
+    7599001779
+  ],
   "users": {
     "8093828531": {
       "credits": 95,
@@ -11,5 +13,5 @@
     }
   },
   "processed_payments": [],
-  "last_updated": "2025-12-24T01:37:37.364098"
+  "last_updated": "2025-12-24T23:09:03.034665"
 }
