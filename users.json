@@ -5,11 +5,11 @@
   "whitelist": [],
   "users": {
     "8093828531": {
-      "credits": 0,
+      "credits": 100,
       "total_sent": 0,
       "transactions": []
     }
   },
   "processed_payments": [],
-  "last_updated": "2025-12-23T14:47:30.000000"
+  "last_updated": "2025-12-24T00:43:56.484472"
 }
