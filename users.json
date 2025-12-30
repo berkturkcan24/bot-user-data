@@ -19,8 +19,15 @@
     "7659754065": {
       "credits": 95,
       "total_sent": 5
+    },
+    "8222436693": {
+      "credits": 1,
+      "total_sent": 0
     }
   },
   "processed_payments": [],
-  "last_updated": "2025-12-29T11:57:51.958813"
+  "last_updated": "2025-12-30T14:44:06.464187",
+  "trial": [
+    8222436693
+  ]
 }
