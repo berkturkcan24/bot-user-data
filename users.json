@@ -6,7 +6,9 @@
   "whitelist": [
     7599001779
   ],
-  "trial": [],
+  "trial": [
+    8222436693
+  ],
   "users": {
     "8093828531": {
       "credits": 95,
@@ -14,8 +16,8 @@
       "transactions": []
     },
     "7599001779": {
-      "credits": 99,
-      "total_sent": 1
+      "credits": 98,
+      "total_sent": 2
     },
     "7659754065": {
       "credits": 95,
@@ -27,8 +29,5 @@
     }
   },
   "processed_payments": [],
-  "last_updated": "2025-12-30T14:45:01.803187",
-  "trial": [
-    8222436693
-  ]
+  "last_updated": "2025-12-31T09:39:46.818897"
 }
