@@ -16,8 +16,8 @@
       "transactions": []
     },
     "7599001779": {
-      "credits": 97,
-      "total_sent": 3
+      "credits": 96,
+      "total_sent": 4
     },
     "7659754065": {
       "credits": 95,
@@ -29,5 +29,5 @@
     }
   },
   "processed_payments": [],
-  "last_updated": "2025-12-31T09:41:26.831716"
+  "last_updated": "2026-01-02T12:08:11.418475"
 }
