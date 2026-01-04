@@ -11,8 +11,8 @@
   ],
   "users": {
     "8093828531": {
-      "credits": 95,
-      "total_sent": 5,
+      "credits": 94,
+      "total_sent": 6,
       "transactions": []
     },
     "7599001779": {
@@ -29,5 +29,5 @@
     }
   },
   "processed_payments": [],
-  "last_updated": "2026-01-03T14:27:31.785286"
+  "last_updated": "2026-01-04T01:25:43.175017"
 }
