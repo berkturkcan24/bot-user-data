@@ -23,8 +23,8 @@
       "total_sent": 9
     },
     "7659754065": {
-      "credits": 80,
-      "total_sent": 20
+      "credits": 79,
+      "total_sent": 21
     },
     "8222436693": {
       "credits": 0,
@@ -44,5 +44,5 @@
     }
   },
   "processed_payments": [],
-  "last_updated": "2026-01-15T13:01:59.103812"
+  "last_updated": "2026-01-15T13:03:46.859862"
 }
